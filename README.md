@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adyoi
 - 👀 I’m interested in Technology
-- 🌱 I’m currently learning Metaverse
+- 🌱 I’m currently learning AI and Metaverse
 - 💞️ I’m looking to collaborate on NFT
 - 📫 How to reach me adyoix@gmail.com
 
