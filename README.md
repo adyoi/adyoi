@@ -1,25 +1,21 @@
 <h1 align="center">Hi 👋, I'm adyoi from Indonesia 🇮🇩 </h1>
-<h3 align="center">Penikmat Teknologi Informasi yang idealis — mengeksplorasi banyak hal di dunia digital tentang Komputer dan Internet.</h3>
+<h3 align="center">Penikmat Teknologi Informasi yang idealis<br>mengeksplorasi banyak hal di dunia digital tentang Komputer dan Internet.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adyoi&label=Profile%20views&color=0e75b6&style=flat" alt="adyoi" /> <a href="https://twitter.com/adyoi" target="blank"><img src="https://img.shields.io/twitter/follow/adyoi?logo=twitter&style=for-the-badge" alt="adyoi" /></a> </p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=adyoi&label=Profile%20views&color=0e75b6&style=flat" alt="adyoi" /></p>
 
-- 🔭 I’m currently working on [https://adyoi.github.io](https://adyoi.github.io)
-
-- 🌱 I’m currently learning **AI Agents**
-
-- 👯 I’m looking to collaborate on [https://adyoi.github.io](https://adyoi.github.io)
-
-- 🤝 I’m looking for help with [https://adyoi.github.io](https://adyoi.github.io)
+- 🔭 I’m currently working on [https://adyoi.github.io/portofolio.html](https://adyoi.github.io/portofolio.html)
 
 - 👨‍💻 All of my projects are available at [https://github.com/adyoi](https://github.com/adyoi)
 
 - 📝 I regularly write articles on [https://adyoi.blogspot.com](https://adyoi.blogspot.com)
 
-- 💬 Ask me about **Everything Hacking**
+- 📄 Know about my experiences [https://adyoi.github.io](https://adyoi.github.io)
 
 - 📫 How to reach me **adyoix@gmail.com**
 
-- 📄 Know about my experiences [https://adyoi.github.io](https://adyoi.github.io)
+- 💬 Ask me about **Everything Hacking**
+
+- 🌱 I’m currently learning **AI Agents**
 
 - ⚡ Fun fact **I Know You**
 
@@ -58,7 +54,7 @@
 <a href="https://auth.geeksforgeeks.org/user/adyoi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="adyoi" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/adyoi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="adyoi" height="30" width="40" /></a>
 <a href="https://discord.gg/adyoi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="adyoi" height="30" width="40" /></a>
-<a href="/adyoi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="adyoi" height="30" width="40" /></a>
+<a href="https://adyoi.blogspot.com/feeds/posts/default" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="adyoi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
