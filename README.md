@@ -7,6 +7,8 @@
 
 <p align="center">
   <img src="https://profileviews.blueorbitdevs.workers.dev/?username=adyoi&color=bd93f9&style=flat&label=Profile+Views" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/adyoi?label=Followers&style=flat&color=bd93f9" alt="Followers" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/adyoi&query=$.public_repos&label=Repos&color=bd93f9" alt="Repos" />
 </p>
 
 ---
