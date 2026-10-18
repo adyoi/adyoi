@@ -62,6 +62,12 @@ Saya adalah penikmat teknologi informasi yang idealis, dengan ketertarikan menda
   <img src="https://img.shields.io/badge/Tor-7D4698?style=flat-square&logo=torproject&logoColor=white" alt="Tor">
 </p>
 
+## 📂 Proyek
+
+- 🔗 [Semua repositori](https://github.com/adyoi?tab=repositories)
+- 🌐 [Portfolio](https://adyoi.github.io/portofolio.html)
+- 📝 [Blog](https://adyoi.blogspot.com)
+
 ## 📊 GitHub Analytics
 
 <p align="center">
