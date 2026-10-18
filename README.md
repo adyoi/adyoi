@@ -6,12 +6,6 @@
 </p>
 
 <p align="center">
-  <a href="mailto:adyoix@gmail.com"><img src="https://img.shields.io/badge/Email-adyoix%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://adyoi.github.io"><img src="https://img.shields.io/badge/Portfolio-adyoi.github.io-0A66C2?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
-  <a href="https://adyoi.blogspot.com"><img src="https://img.shields.io/badge/Blog-adyoi.blogspot.com-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog"></a>
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=adyoi&label=Profile%20Views&color=bd93f9&style=flat" alt="Profile views" />
 </p>
 
