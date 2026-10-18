@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adyoi&label=Profile+Views&color=bd93f9" alt="Profile views" />
+  <img src="https://profileviews.blueorbitdevs.workers.dev/?username=adyoi&color=bd93f9&style=flat&label=Profile+Views" alt="Profile views" />
 </p>
 
 ---
