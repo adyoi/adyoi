@@ -70,6 +70,10 @@ Saya adalah penikmat teknologi informasi yang idealis, dengan ketertarikan menda
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adyoi&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=adyoi&theme=dracula&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
 ## 🤝 Terhubung dengan Saya
 
 <p align="left">
