@@ -13,3 +13,11 @@ jobs:
         with:
           feed_list: "https://adyoi.blogspot.com/feeds/posts/default"
           max_post_count: 5
+      - name: Fix HTML encoding in titles
+        run: |
+          sed -i 's/&amp;amp;/\&amp;/g' README.md
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || git commit -m "Fix blog title encoding"
+          git push
