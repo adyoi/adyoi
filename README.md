@@ -35,7 +35,6 @@ Saya adalah penikmat teknologi informasi yang idealis, dengan ketertarikan menda
 - [Membangun Tor Hidden Service v3 di WSL & Automasi Deployment](https://adyoi.blogspot.com/2026/09/membangun-tor-hidden-service-v3-di-wsl.html)
 - [MWS - My Windows Setup](https://adyoi.blogspot.com/2026/09/mws-my-windows-setup.html)
 - [Pemetaan Sistem Operasi Windows, Linux dan MacOs](https://adyoi.blogspot.com/2026/09/pemetaan-sistem-operasi-windows-linux.html)
-- [Lovely 🤍](https://adyoi.blogspot.com/2026/07/lovely.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🛠️ Tech Stack
@@ -46,7 +45,6 @@ Saya adalah penikmat teknologi informasi yang idealis, dengan ketertarikan menda
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
 </p>
 
 **Framework & Runtime**
