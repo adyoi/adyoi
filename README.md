@@ -1,6 +1,10 @@
 <h1 align="center">adyoi</h1>
 
 <p align="center">
+  <img src="https://github.com/adyoi.png" width="100" height="100" alt="adyoi avatar" style="border-radius:50%" />
+</p>
+
+<p align="center">
   <strong>Penikmat Teknologi Informasi · Idealist · Digital World Explorer</strong><br>
   🇮🇩 Indonesia
 </p>
@@ -78,6 +82,7 @@ Saya adalah penikmat teknologi informasi yang idealis, dengan ketertarikan menda
 ## 🤝 Terhubung dengan Saya
 
 <p align="left">
+  <a href="mailto:adyoix@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://x.com/adyoi" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
   <a href="https://linkedin.com/in/adyoi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://dev.to/adyoi" target="_blank"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"></a>
@@ -96,5 +101,5 @@ Jika Anda menemukan konten atau proyek saya bermanfaat, dukungan Anda sangat ber
 ---
 
 <p align="center">
-  <sub>© 2026 adyoi · Dibangun dengan semangat eksplorasi dan idealisme.</sub>
+  <sub>© adyoi · Dibangun dengan semangat eksplorasi dan idealisme.</sub>
 </p>
