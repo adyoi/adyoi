@@ -1,7 +1,7 @@
 <h1 align="center">adyoi</h1>
 
 <p align="center">
-  <strong>Penikmat Teknologi Informasi · Idealist · Eksplorator Dunia Digital</strong><br>
+  <strong>Penikmat Teknologi Informasi · Idealist · Digital World Explorer</strong><br>
   🇮🇩 Indonesia
 </p>
 
