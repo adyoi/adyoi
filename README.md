@@ -76,7 +76,7 @@ Saya adalah penikmat teknologi informasi yang idealis, dengan ketertarikan menda
 </p>
 
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=adyoi&theme=matrix&no-bg=true&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=adyoi&theme=flat&no-bg=true&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
 ## 🤝 Terhubung dengan Saya
