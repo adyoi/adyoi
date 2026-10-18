@@ -17,7 +17,7 @@ Saya adalah penikmat teknologi informasi yang idealis, dengan ketertarikan menda
 
 - 🔭 Saat ini mengerjakan: [Portfolio pribadi](https://adyoi.github.io/portofolio.html)
 - 🌱 Sedang mendalami: **AI Agents** & otomasi cerdas
-- 💬 Tanyakan kepada saya tentang: **Everything Hacking**, Linux, jaringan, dan teknologi open source
+- 💬 Tanyakan kepada saya tentang: **Everything Hacking**
 - 📝 Menulis artikel secara rutin di [adyoi.blogspot.com](https://adyoi.blogspot.com)
 - 📄 Kenali pengalaman saya lebih lanjut di [adyoi.github.io](https://adyoi.github.io)
 - ⚡ Fun fact: *I Know You*
