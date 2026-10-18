@@ -10,10 +10,10 @@
 </p>
 
 <p align="center">
-  <img src="https://profileviews.blueorbitdevs.workers.dev/?username=adyoi&color=50fa7b&style=flat&label=Profile+Views" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/adyoi?label=Followers&style=flat&color=50fa7b" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/adyoi?label=Stars&style=flat&color=50fa7b" alt="Stars" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/adyoi&query=$.public_repos&label=Repos&color=50fa7b" alt="Repos" />
+  <img src="https://profileviews.blueorbitdevs.workers.dev/?username=adyoi&color=2e7d32&style=flat&label=Profile+Views" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/adyoi?label=Followers&style=flat&color=2e7d32" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/adyoi?label=Stars&style=flat&color=2e7d32" alt="Stars" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/adyoi&query=$.public_repos&label=Repos&color=2e7d32" alt="Repos" />
 </p>
 
 ---
