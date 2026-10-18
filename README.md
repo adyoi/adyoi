@@ -15,12 +15,12 @@
 
 Saya adalah penikmat teknologi informasi yang idealis, dengan ketertarikan mendalam pada dunia komputer dan internet. Saya mengeksplorasi berbagai aspek teknologi digital — mulai dari keamanan siber, jaringan, hingga pengembangan perangkat lunak — dengan pendekatan yang kritis dan berorientasi pada pemahaman, bukan sekadar penggunaan.
 
-- 🔭 Saat ini mengerjakan: [Portfolio pribadi](https://adyoi.github.io/portofolio.html)
-- 🌱 Sedang mendalami: **AI Agents** & otomasi cerdas
+- 📄 Kenali pengalaman saya lebih lanjut di [adyoi.github.io](https://adyoi.github.io)
 - 💬 Tanyakan kepada saya tentang: **Everything Hacking**
 - 📝 Menulis artikel secara rutin di [adyoi.blogspot.com](https://adyoi.blogspot.com)
-- 📄 Kenali pengalaman saya lebih lanjut di [adyoi.github.io](https://adyoi.github.io)
-- ⚡ Fun fact: *I Know You*
+- 🔭 Saat ini mengerjakan: Social Engineering Security
+- 🌱 Sedang mendalami: **AI Agents** & Dreams Tools
+- ⚡ Fun fact: *I know you when you know me*
 
 ## 📝 Artikel Terbaru
 
@@ -71,12 +71,10 @@ Saya adalah penikmat teknologi informasi yang idealis, dengan ketertarikan menda
 ## 🤝 Terhubung dengan Saya
 
 <p align="left">
-  <a href="https://github.com/adyoi" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://twitter.com/adyoi" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://twitter.com/adyoi" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
   <a href="https://linkedin.com/in/adyoi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://dev.to/adyoi" target="_blank"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"></a>
   <a href="https://medium.com/@adyoi" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
-  <a href="https://www.youtube.com/c/adyoi" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
 </p>
 
 ## ☕ Dukungan
