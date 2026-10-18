@@ -10,10 +10,10 @@
 </p>
 
 <p align="center">
-  <img src="https://profileviews.blueorbitdevs.workers.dev/?username=adyoi&color=bd93f9&style=flat&label=Profile+Views" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/adyoi?label=Followers&style=flat&color=bd93f9" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/adyoi?label=Stars&style=flat&color=bd93f9" alt="Stars" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/adyoi&query=$.public_repos&label=Repos&color=bd93f9" alt="Repos" />
+  <img src="https://profileviews.blueorbitdevs.workers.dev/?username=adyoi&color=50fa7b&style=flat&label=Profile+Views" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/adyoi?label=Followers&style=flat&color=50fa7b" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/adyoi?label=Stars&style=flat&color=50fa7b" alt="Stars" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/adyoi&query=$.public_repos&label=Repos&color=50fa7b" alt="Repos" />
 </p>
 
 ---
@@ -67,16 +67,16 @@ Saya adalah penikmat teknologi informasi yang idealis, dengan ketertarikan menda
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adyoi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adyoi&layout=compact&langs_count=8&theme=dracula&hide_border=true" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adyoi&show_icons=true&theme=merko&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adyoi&layout=compact&langs_count=8&theme=merko&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adyoi&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adyoi&theme=merko&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=adyoi&theme=dracula&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=adyoi&theme=matrix&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
 ## 🤝 Terhubung dengan Saya
