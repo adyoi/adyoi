@@ -67,12 +67,12 @@ Saya adalah penikmat teknologi informasi yang idealis, dengan ketertarikan menda
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adyoi&show_icons=true&theme=merko&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adyoi&layout=compact&langs_count=8&theme=merko&hide_border=true" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adyoi&show_icons=true&title_color=4caf50&icon_color=4caf50&text_color=c9d1d9&bg_color=0d1117&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adyoi&layout=compact&langs_count=8&title_color=4caf50&text_color=c9d1d9&bg_color=0d1117&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adyoi&theme=merko&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adyoi&background=0d1117&ring=4caf50&fire=4caf50&currStreakNum=4caf50&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
