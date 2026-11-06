@@ -32,7 +32,7 @@ Saya adalah penikmat teknologi informasi yang idealis, dengan ketertarikan menda
 ## 📝 Artikel Terbaru
 
 <!-- BLOG-POST-LIST:START -->
-- [Membangun Tor Hidden Service v3 di WSL &amp; Automasi Deployment](https://adyoi.blogspot.com/2026/09/membangun-tor-hidden-service-v3-di-wsl.html)
+- [Membangun Tor Hidden Service v3 di WSL &amp;amp; Automasi Deployment](https://adyoi.blogspot.com/2026/09/membangun-tor-hidden-service-v3-di-wsl.html)
 - [MWS - My Windows Setup](https://adyoi.blogspot.com/2026/09/mws-my-windows-setup.html)
 - [Pemetaan Sistem Operasi Windows, Linux dan MacOs](https://adyoi.blogspot.com/2026/09/pemetaan-sistem-operasi-windows-linux.html)
 - [Lovely 🤍](https://adyoi.blogspot.com/2026/07/lovely.html)
